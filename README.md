@@ -1,4 +1,4 @@
-# 本文由[此处](https://github.com/yangyangwithgnu/use_vim_as_ide/blob/master/README.md)fork而来，非本人作品。特此声明。
+# 声明：本文由[此处](https://github.com/yangyangwithgnu/use_vim_as_ide/blob/master/README.md)fork而来，非本人作品。
 ## 【公告】
 ----
 * **帮助：英译版编制。github.com 上搜索 vim ide 关键字后第一匹配项便是本文，洋人浏览到本文的次数非常多，常常收到要求同步发表英文版的邮件，但是，你知道，这 80+ 页的中文已经耗费我大量业余时间，所以，如果可能，希望有精力的朋友可以将其翻译为英文，感谢！**
