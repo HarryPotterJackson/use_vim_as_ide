@@ -174,9 +174,9 @@ autocmd BufWritePost $MYVIMRC source $MYVIMRC
 <img src="https://github.com/yangyangwithgnu/use_vim_as_ide/blob/master/pics/%E9%85%8D%E7%BD%AE%E5%8F%98%E6%9B%B4%E7%AB%8B%E5%8D%B3%E7%94%9F%E6%95%88.gif" alt=""/><br />
 （配置变更立即生效）
 </div>
-<div align="center">
+
 其他。搜索、vim 命令补全等设置：
-</div>
+
 ```
 " 开启实时搜索功能
 set incsearch
